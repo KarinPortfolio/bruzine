@@ -1,0 +1,26 @@
+header {
+    height: 13vh;  
+    width: 95%;    
+    margin-bottom: 120px;
+    background-color: rgb(245, 245, 243);
+    position: fixed;
+  }
+  
+  nav {    
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+   }
+  
+   ul{  
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    align-items: center;
+  }
+  
+  li{
+    font-size: 2rem;
+    color: rgb(83, 82, 82);
+  }
